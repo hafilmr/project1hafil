@@ -1,4 +1,4 @@
-# Tapera-Sentiment-Analysis---SVM and Lexicon
+# Tapera-Sentiment-Analysis-SVM and Lexicon
 Analisis Sentimen w/ Lexicon and SVM
 ============================================================
 This project is the result of hard work for a final project at university. This project is a sentiment analysis research based on data from twitter.
